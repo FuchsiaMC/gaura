@@ -1,0 +1,4 @@
+name: Gaura
+version: '${project.version}'
+main: net.fuchsiamc.gaura.Gaura
+api-version: 1.18

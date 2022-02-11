@@ -1,0 +1,1 @@
+Fuchsia's core framework plugin for Paper, used by every custom plugin run on the network.
